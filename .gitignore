@@ -1,0 +1,10 @@
+#ignore files
+*.sdf
+*.opensdf
+
+#ignore folder
+ipch
+Debug
+Release
+PAT/Debug
+PAT/Release
